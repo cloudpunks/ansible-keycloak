@@ -1,6 +1,6 @@
 ---
 repository:
-  name: keycloak
+  name: ansible-keycloak
   description: Ansible role to install and configure Keycloak identity service
   topics: ansible, role, ansible-role, hacktoberfest
 
